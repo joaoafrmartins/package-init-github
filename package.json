@@ -1,0 +1,28 @@
+{
+  "name": "package-init-github",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "dependencies": {
+    "ini": ""
+  },
+  "devDependencies": {
+    "kosher": ""
+  },
+  "description": "Package Init Github",
+  "keywords": [
+    "package",
+    "init",
+    "github"
+  ],
+  "homepage": "https://github.com/joaoafrmartins/package-init-github",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/package-init-github.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/package-init-github/issues"
+  }
+}

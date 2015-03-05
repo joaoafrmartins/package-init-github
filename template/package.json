@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/<%=context['github.username']%>/<%=context['github.repo']%>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<%=context['github.username']%>/<%=context['github.repo']%>.git"
+  },
+  "bugs": {
+    "url": "https://github.com/<%=context['github.username']%>/<%=context['github.repo']%>/issues"
+  }
+}
